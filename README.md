@@ -32,6 +32,16 @@
 // - Console Output (System.out.println)
 // - Basic Program Execution Flow
 
+// Use Case 1:
+// - Displays welcome message when application starts.
+
+// Use Case 2:
+// - Uses a hardcoded string.
+// - Reverses the string.
+// - Compares original and reversed string.
+// - Displays whether the word is a palindrome.
+// - Program exits.
+
 // Use Case:
 // This application can be used:
 // - To check whether a word or number is a palindrome.
